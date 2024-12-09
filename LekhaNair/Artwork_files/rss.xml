@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Art</title>
+    <link>http://www.lekhanair.com/LekhaNair/Artwork.html</link>
+    <description>Art</description>
+    <item>
+      <title>Lotus (Acrylic)</title>
+      <link>http://www.lekhanair.com/LekhaNair/Artwork.html#0</link>
+      <guid isPermaLink="false">c0aeec4f-88f1-42b5-8636-624e0b7cac4e</guid>
+      <enclosure url="http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01726/DSC01726.jpg" length="169685" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01726/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01726/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Lotus (Acrylic)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Still Life (Oil Pastel)</title>
+      <link>http://www.lekhanair.com/LekhaNair/Artwork.html#1</link>
+      <guid isPermaLink="false">e9fc95c2-aa1f-4921-bcb0-30ba97ae6222</guid>
+      <enclosure url="http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01721/DSC01721.jpg" length="104113" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01721/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01721/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Still Life (Oil Pastel)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Still Life (Water)</title>
+      <link>http://www.lekhanair.com/LekhaNair/Artwork.html#2</link>
+      <guid isPermaLink="false">7fd3b2ed-4068-4282-a388-2c935a932bd9</guid>
+      <enclosure url="http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01722/DSC01722.jpg" length="121465" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01722/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01722/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Still Life (Water)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Self Portrait (Oil)</title>
+      <link>http://www.lekhanair.com/LekhaNair/Artwork.html#3</link>
+      <guid isPermaLink="false">037f8891-4a19-40da-b710-b48dacd8ed4e</guid>
+      <enclosure url="http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01725/DSC01725.jpg" length="78649" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01725/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.lekhanair.com/LekhaNair/Artwork_files/Media/DSC01725/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Self Portrait (Oil)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
